@@ -1,0 +1,1 @@
+This repository contains an interactive Power BI Dashboard designed to provide insights and visualize key metrics in an easy-to-understand format. The dashboard enables users to filter, analyze, and explore data efficiently.
